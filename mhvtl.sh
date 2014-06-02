@@ -1,6 +1,6 @@
 #!/bin/bash
 # MHVTL Installation Script
-# Date: 29th of May, 2014
+# Date: 1st of June, 2014
 # Version 1.0
 #
 # Author: John McCarthy
